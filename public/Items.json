@@ -1,0 +1,11 @@
+{
+    "Items": {
+        "responsive": [
+            {
+                "id": 1,
+                "title": "Image 1",
+                "ImageUrl": "./Banner.jpg"
+            }
+        ]
+    }
+}
